@@ -22,3 +22,7 @@ El programa cuenta con un menú interactivo con las siguientes opciones:
 3. Ejecuta la clase `Main.java`.
 4. ¡Interactúa con el menú en la consola!
 
+## Autor
+Luis Enrique Gomez Maynez 
+
+
