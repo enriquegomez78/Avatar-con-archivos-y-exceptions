@@ -1,0 +1,2 @@
+=== LISTA DE PERSONAJES EN EL SISTEMA ===
+Nombre: Zuko | Nación: fuego | Edad: 22 | Energía: 80 | Estado: Vivo
