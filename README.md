@@ -1,4 +1,4 @@
-# Avatar-con-archivos-y-exceptions
+# Avatar con archivos y exceptions
 
 # Descripción
 Este es un programa de consola desarrollado en Java basado en el universo de Avatar. El sistema permite gestionar una lista de personajes, simular ataques controlando sus niveles de energía y guardar toda la información en un archivo de texto de forma segura.
